@@ -1,4 +1,4 @@
-# Set de Problemas #1
+# Set de Problemas #2
 Ejercicios sobre estructuras de control selectivas y estructuras de control repetitivas del curso de programación orientada a objetos 1 (CS1102).
 
 ## Ejercicio # 1
