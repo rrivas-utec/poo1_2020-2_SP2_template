@@ -1,6 +1,13 @@
 # Set de Problemas #2
 Ejercicios sobre estructuras de control selectivas y estructuras de control repetitivas del curso de programación orientada a objetos 1 (CS1102).
 
+## Instrucciones
+
+- El proyecto cuenta con los archivos `SP2.h` y `SP2.cpp`.
+- Las declaraciones de las preguntas se encuentran en el archivo `SP2.h` y las definiciones en el archivo `SP2.cpp`.
+- Completar las respuestas dentro de esos archivos (`SP2.h`, `SP2.cpp`) y se requiere agregar alguna nueva función incluirla dentro de estos archivos.
+- Los archivos deberan ser subidos directamente a www.gradescope.com.
+
 ## Ejercicio # 1
 
 Realizar un programa que solicite el centro (cordenadas x e y) y el radio de un circulo y un punto (cordenadas x e y) y que determine si el punto esta dentro del circulo. 
